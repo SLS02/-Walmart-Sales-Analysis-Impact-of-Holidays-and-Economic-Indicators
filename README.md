@@ -9,19 +9,19 @@ Este projeto analisa as vendas semanais do Walmart, cruzando dados económicos c
 - Diferenças de comportamento em semanas **com** e **sem** feriado.
 - Relação entre **desemprego** e número da loja.
 
-Os dados foram obtidos do **Kaggle** e tratados com **Excel** e **Power BI**.
+Os dados foram obtidos do **Kaggle** e tratados com **SQL/Excel** e **Power BI**.
 
 ---
 
 ## 🛠️ Ferramentas Utilizadas
 
-- **Excel** – limpeza e transformação de dados
+- **SQL/Excel** – limpeza e transformação de dados
 - **Power BI** – visualizações, medidas de correlação e dashboards
 - **GitHub** – documentação e portfólio
 
 ---
 
-## 🧹 Limpeza de Dados (Excel)
+## 🧹 Limpeza de Dados 
 
 Foram aplicados os seguintes critérios para garantir a qualidade da análise:
 
